@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3cc082c03a33263ced84101452320b71",
+    "revision": "36f798fc5d2436b1b7e62f4b2ea4badd",
     "url": "/price-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/price-app/static/css/2.5e9848f6.chunk.css"
   },
   {
-    "revision": "30bd8c8f28b235577bf7",
+    "revision": "8ec456693b3f87ef18ad",
     "url": "/price-app/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/price-app/static/js/2.44253149.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "30bd8c8f28b235577bf7",
-    "url": "/price-app/static/js/main.a5028821.chunk.js"
+    "revision": "8ec456693b3f87ef18ad",
+    "url": "/price-app/static/js/main.55fcfd71.chunk.js"
   },
   {
     "revision": "002157e98d97d4c99a1a",
