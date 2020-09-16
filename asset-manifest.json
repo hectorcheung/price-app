@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/price-app/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/price-app/static/js/main.55fcfd71.chunk.js",
-    "main.js.map": "/price-app/static/js/main.55fcfd71.chunk.js.map",
+    "main.js": "/price-app/static/js/main.595d60ee.chunk.js",
+    "main.js.map": "/price-app/static/js/main.595d60ee.chunk.js.map",
     "runtime-main.js": "/price-app/static/js/runtime-main.e44dc801.js",
     "runtime-main.js.map": "/price-app/static/js/runtime-main.e44dc801.js.map",
     "static/css/2.5e9848f6.chunk.css": "/price-app/static/css/2.5e9848f6.chunk.css",
-    "static/js/2.44253149.chunk.js": "/price-app/static/js/2.44253149.chunk.js",
-    "static/js/2.44253149.chunk.js.map": "/price-app/static/js/2.44253149.chunk.js.map",
+    "static/js/2.a95571cc.chunk.js": "/price-app/static/js/2.a95571cc.chunk.js",
+    "static/js/2.a95571cc.chunk.js.map": "/price-app/static/js/2.a95571cc.chunk.js.map",
     "index.html": "/price-app/index.html",
-    "precache-manifest.9c25bdbf29d58de0d0325ea10c4d49d8.js": "/price-app/precache-manifest.9c25bdbf29d58de0d0325ea10c4d49d8.js",
+    "precache-manifest.0c9015fb12b36fbd3da361fa40475023.js": "/price-app/precache-manifest.0c9015fb12b36fbd3da361fa40475023.js",
     "service-worker.js": "/price-app/service-worker.js",
     "static/css/2.5e9848f6.chunk.css.map": "/price-app/static/css/2.5e9848f6.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/price-app/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.44253149.chunk.js.LICENSE.txt": "/price-app/static/js/2.44253149.chunk.js.LICENSE.txt",
+    "static/js/2.a95571cc.chunk.js.LICENSE.txt": "/price-app/static/js/2.a95571cc.chunk.js.LICENSE.txt",
     "static/media/semantic.css": "/price-app/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.e44dc801.js",
     "static/css/2.5e9848f6.chunk.css",
-    "static/js/2.44253149.chunk.js",
+    "static/js/2.a95571cc.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.55fcfd71.chunk.js"
+    "static/js/main.595d60ee.chunk.js"
   ]
 }

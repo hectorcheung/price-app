@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36f798fc5d2436b1b7e62f4b2ea4badd",
+    "revision": "82aa3cab1f660f5a29f99c4ccc5439cb",
     "url": "/price-app/index.html"
   },
   {
-    "revision": "672239a9ba7f23d7ed91",
+    "revision": "a4d62efd333fee83cab5",
     "url": "/price-app/static/css/2.5e9848f6.chunk.css"
   },
   {
-    "revision": "8ec456693b3f87ef18ad",
+    "revision": "dca02e5c170b344c0e1c",
     "url": "/price-app/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "672239a9ba7f23d7ed91",
-    "url": "/price-app/static/js/2.44253149.chunk.js"
+    "revision": "a4d62efd333fee83cab5",
+    "url": "/price-app/static/js/2.a95571cc.chunk.js"
   },
   {
     "revision": "5bd09eb7f2cf4d145d532d862be18942",
-    "url": "/price-app/static/js/2.44253149.chunk.js.LICENSE.txt"
+    "url": "/price-app/static/js/2.a95571cc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8ec456693b3f87ef18ad",
-    "url": "/price-app/static/js/main.55fcfd71.chunk.js"
+    "revision": "dca02e5c170b344c0e1c",
+    "url": "/price-app/static/js/main.595d60ee.chunk.js"
   },
   {
     "revision": "002157e98d97d4c99a1a",
