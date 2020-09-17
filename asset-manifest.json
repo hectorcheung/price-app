@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/price-app/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/price-app/static/js/main.595d60ee.chunk.js",
-    "main.js.map": "/price-app/static/js/main.595d60ee.chunk.js.map",
+    "main.js": "/price-app/static/js/main.60ad5857.chunk.js",
+    "main.js.map": "/price-app/static/js/main.60ad5857.chunk.js.map",
     "runtime-main.js": "/price-app/static/js/runtime-main.e44dc801.js",
     "runtime-main.js.map": "/price-app/static/js/runtime-main.e44dc801.js.map",
     "static/css/2.5e9848f6.chunk.css": "/price-app/static/css/2.5e9848f6.chunk.css",
     "static/js/2.a95571cc.chunk.js": "/price-app/static/js/2.a95571cc.chunk.js",
     "static/js/2.a95571cc.chunk.js.map": "/price-app/static/js/2.a95571cc.chunk.js.map",
     "index.html": "/price-app/index.html",
-    "precache-manifest.0c9015fb12b36fbd3da361fa40475023.js": "/price-app/precache-manifest.0c9015fb12b36fbd3da361fa40475023.js",
+    "precache-manifest.f05ccd03f9049561ca7051c2b98f73d3.js": "/price-app/precache-manifest.f05ccd03f9049561ca7051c2b98f73d3.js",
     "service-worker.js": "/price-app/service-worker.js",
     "static/css/2.5e9848f6.chunk.css.map": "/price-app/static/css/2.5e9848f6.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/price-app/static/css/main.5ecd60fb.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.5e9848f6.chunk.css",
     "static/js/2.a95571cc.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.595d60ee.chunk.js"
+    "static/js/main.60ad5857.chunk.js"
   ]
 }
