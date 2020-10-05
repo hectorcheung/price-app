@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff2e17aca147f2e4513faa8f86a06cab",
+    "revision": "0cf24bdb6ec5d28a6c1dd30585729000",
     "url": "/price-app/index.html"
   },
   {
-    "revision": "a4d62efd333fee83cab5",
+    "revision": "1bb68ba26c3cb840ed81",
     "url": "/price-app/static/css/2.5e9848f6.chunk.css"
   },
   {
-    "revision": "8af791a7d0c5895e24ba",
-    "url": "/price-app/static/css/main.5ecd60fb.chunk.css"
+    "revision": "d75e207c1d0098a04c25",
+    "url": "/price-app/static/css/main.ac1fda46.chunk.css"
   },
   {
-    "revision": "a4d62efd333fee83cab5",
-    "url": "/price-app/static/js/2.a95571cc.chunk.js"
+    "revision": "1bb68ba26c3cb840ed81",
+    "url": "/price-app/static/js/2.b0ca6e7e.chunk.js"
   },
   {
     "revision": "5bd09eb7f2cf4d145d532d862be18942",
-    "url": "/price-app/static/js/2.a95571cc.chunk.js.LICENSE.txt"
+    "url": "/price-app/static/js/2.b0ca6e7e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8af791a7d0c5895e24ba",
-    "url": "/price-app/static/js/main.60ad5857.chunk.js"
+    "revision": "d75e207c1d0098a04c25",
+    "url": "/price-app/static/js/main.45bdccf3.chunk.js"
   },
   {
     "revision": "002157e98d97d4c99a1a",
@@ -48,6 +48,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/price-app/static/media/brand-icons.e8c322de.woff2"
   },
   {
+    "revision": "7ff4b79b09178ff9a192ba9eeb85593d",
+    "url": "/price-app/static/media/evision.7ff4b79b.png"
+  },
+  {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
     "url": "/price-app/static/media/flags.9c74e172.png"
   },
@@ -72,6 +76,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/price-app/static/media/icons.faff9214.woff"
   },
   {
+    "revision": "984684ff903cb471d6d459451506be12",
+    "url": "/price-app/static/media/lglogo.984684ff.png"
+  },
+  {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
     "url": "/price-app/static/media/outline-icons.701ae6ab.eot"
   },
@@ -90,5 +98,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
     "url": "/price-app/static/media/outline-icons.ef60a4f6.woff"
+  },
+  {
+    "revision": "0a266f8fa3ab61880b86de947457259c",
+    "url": "/price-app/static/media/panafoto.0a266f8f.png"
   }
 ]);
